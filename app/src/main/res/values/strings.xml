@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PGRCharRemake</string>
+    <string name="txt_class">Class</string>
+    <string name="faction">Faction</string>
+    <string name="weapon">Weapon</string>
+    <string name="element">Element</string>
+    <string name="information">Information</string>
+    <string name="hitung_1">Hitung +1</string>
+</resources>
